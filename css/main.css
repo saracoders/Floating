@@ -1,0 +1,27 @@
+/* Pon tu código css aqui */
+.conteiner {
+	background: white;
+	border: 2px black solid;
+}
+
+.amarillo {
+	background: yellow;
+}
+
+.celeste {
+	background: #3F86DD;
+}
+
+.rojo {
+	background: #E91936;
+}
+
+.cuadro {
+	width: 25%;
+	height: 100px;
+	float: left;
+}
+
+.clearfix {
+    overflow: auto;
+}
